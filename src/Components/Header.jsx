@@ -1,7 +1,9 @@
 import image1 from '../assets/images/image1.png';
 import image2 from '../assets/images/image2.png';
 import searchicon from '../assets/images/searchicon.png';
-import vector from '../assets/images/vector.png';
+// import vector from '../assets/images/vector.png';
+import vector from "../assets/images/vector.png";
+
 
 const Header = () => {
     return (
